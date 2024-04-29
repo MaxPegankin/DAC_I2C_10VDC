@@ -1466,15 +1466,15 @@
 				)
 			)
 		)
-		(symbol "Snapeda:TNPW080520K3BEEN"
-			(pin_numbers hide)
+		(symbol "Snapeda:TNPW080520K3BEEA"
 			(pin_names
-				(offset 1.016) hide)
+				(offset 1.016)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "R"
-				(at -7.62 2.54 0)
+				(at -7.6244 2.5415 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1482,8 +1482,8 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "TNPW080520K3BEEN"
-				(at -7.62 -5.08 0)
+			(property "Value" "TNPW080520K3BEEA"
+				(at -7.63 -5.0866 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1491,13 +1491,13 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "Snapeda:RESC2012X55N"
+			(property "Footprint" "Snapeda:TNPW080520K3BEEA_RESC2012X55N"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify bottom)
 					(hide yes)
 				)
 			)
@@ -1507,7 +1507,6 @@
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
 					(hide yes)
 				)
 			)
@@ -1520,22 +1519,94 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "MF" "Vishay Dale"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
+					(hide yes)
 				)
 			)
-			(symbol "TNPW080520K3BEEN_0_0"
+			(property "Description_1" "\n20.3 kOhms ±0.1% 0.26W Chip Resistor 0805 (2012 Metric) Anti-Sulfur, Automotive AEC-Q200, Moisture Resistant Thin Film\n"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "2012 Vishay"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/TNPW080520K3BEEA/Vishay+Dale/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "TNPW080520K3BEEA"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/TNPW080520K3BEEA/Vishay+Dale/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "TNPW080520K3BEEA_0_0"
 				(polyline
 					(pts
 						(xy -5.08 0) (xy -4.445 1.905)
 					)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1547,7 +1618,7 @@
 					)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1559,7 +1630,7 @@
 					)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1571,7 +1642,7 @@
 					)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1583,7 +1654,7 @@
 					)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1595,7 +1666,7 @@
 					)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1607,7 +1678,7 @@
 					)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1619,7 +1690,7 @@
 					)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1631,7 +1702,7 @@
 					)
 					(stroke
 						(width 0.254)
-						(type solid)
+						(type default)
 					)
 					(fill
 						(type none)
@@ -1791,22 +1862,22 @@
 		(uuid "549ffeae-c015-470c-9410-7587cc133b50")
 	)
 	(junction
-		(at 185.42 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6c02efc4-53d1-4978-811a-12dab91d25a0")
-	)
-	(junction
 		(at 185.42 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8e30f128-56db-44b0-985f-67590192f84d")
+		(uuid "642c33cf-4efe-4a05-b1a5-ad930b9b4a3c")
 	)
 	(junction
 		(at 265.43 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "912fb691-1c44-4415-bb93-18eb50c32be4")
+	)
+	(junction
+		(at 185.42 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a59ced9b-e5e4-46c7-bf91-09d94b7ef789")
 	)
 	(junction
 		(at 250.19 72.39)
@@ -1924,7 +1995,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 90.17) (xy 200.025 90.17)
+			(xy 181.61 90.17) (xy 185.42 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1941,16 +2012,6 @@
 			(type default)
 		)
 		(uuid "50b32e9a-2aa8-4a9b-a734-86b967ac9f3c")
-	)
-	(wire
-		(pts
-			(xy 181.61 90.17) (xy 185.42 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "552f9253-2bef-4501-8670-fb2bc4017c19")
 	)
 	(wire
 		(pts
@@ -1971,6 +2032,16 @@
 			(type default)
 		)
 		(uuid "620acc0d-5441-4567-b792-498bfab400f3")
+	)
+	(wire
+		(pts
+			(xy 185.42 90.17) (xy 200.025 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "620c1ed0-536f-4387-8f1c-7416bbdcb1e9")
 	)
 	(wire
 		(pts
@@ -3925,86 +3996,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Snapeda:TNPW080520K3BEEN")
-		(at 185.42 80.01 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "39e91579-05ca-4cfa-a2ec-21d8a01bc2d1")
-		(property "Reference" "R2"
-			(at 175.006 77.47 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "20.3k 0.1%"
-			(at 170.942 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 185.42 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 185.42 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 185.42 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "TNPW060320K3BEEA"
-			(at 185.42 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "486619e0-a4a6-4600-ba68-d4e736f2922a")
-		)
-		(pin "2"
-			(uuid "8a039624-b3ff-4933-92cd-852291b7df11")
-		)
-		(instances
-			(project "kicad_pcb"
-				(path "/9ecf7fa2-a852-4268-b56d-a929f388cbe9"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 26.67 87.63 90)
 		(unit 1)
@@ -4451,6 +4442,156 @@
 			(project "kicad_pcb"
 				(path "/9ecf7fa2-a852-4268-b56d-a929f388cbe9"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Snapeda:TNPW080520K3BEEA")
+		(at 185.42 80.01 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "902f87d6-662f-453e-815f-74d7b19cf46b")
+		(property "Reference" "R5"
+			(at 179.832 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "20.3k 0.1%"
+			(at 171.704 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Snapeda:TNPW080520K3BEEA_RESC2012X55N"
+			(at 185.42 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay Dale"
+			(at 185.42 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\n20.3 kOhms ±0.1% 0.26W Chip Resistor 0805 (2012 Metric) Anti-Sulfur, Automotive AEC-Q200, Moisture Resistant Thin Film\n"
+			(at 185.42 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "2012 Vishay"
+			(at 185.42 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 185.42 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TNPW080520K3BEEA/Vishay+Dale/view-part/?ref=snap"
+			(at 185.42 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TNPW080520K3BEEA"
+			(at 185.42 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 185.42 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TNPW080520K3BEEA/Vishay+Dale/view-part/?ref=eda"
+			(at 185.42 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "aaaed93a-1a7f-4d3a-8e9e-7f4cdd1f55ae")
+		)
+		(pin "1"
+			(uuid "baf9ccb8-32aa-4e44-b4fa-46a51382c257")
+		)
+		(instances
+			(project "kicad_pcb"
+				(path "/9ecf7fa2-a852-4268-b56d-a929f388cbe9"
+					(reference "R5")
 					(unit 1)
 				)
 			)
